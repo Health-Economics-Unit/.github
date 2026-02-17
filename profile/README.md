@@ -27,6 +27,4 @@ Where governance and information governance requirements allow, our default posi
 
 ## Learn more
 
-[![Website](https://img.shields.io/badge/Website-Health%20Economics%20Unit-005EB8?logo=google-chrome&logoColor=white)](https://healtheconomicsunit.nhs.uk/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Health%20Economics%20Unit-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/health-economics-unit/)
+[![Website](https://img.shields.io/badge/Website-Health%20Economics%20Unit-005EB8?logo=google-chrome&logoColor=white)](https://healtheconomicsunit.nhs.uk/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Health%20Economics%20Unit-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/health-economics-unit/)
